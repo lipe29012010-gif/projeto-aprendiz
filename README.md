@@ -33,6 +33,8 @@ Atualmente, o projeto conta com os seguintes participantes:
 
 As tecnologias utilizadas no desenvolvimento serão documentadas conforme forem definidas e implementadas pela equipe.
 
+link do figma: https://www.figma.com/community/file/1700270228337619986/plataforma-educacional-gamificada?fuid=1700259246089686844
+
 ## 🚀 Status do projeto
 
 **Em desenvolvimento.**
